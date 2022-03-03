@@ -1,3 +1,3 @@
 # choicehub
-1st tutoring class /n
+1st tutoring class
 python basic
